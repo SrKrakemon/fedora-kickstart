@@ -1,0 +1,2 @@
+# fedora-kickstart
+kickstart-autoinstall
